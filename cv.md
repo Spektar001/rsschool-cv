@@ -23,10 +23,8 @@ I like to see the result of my work and Frontend helps me with this.
 
 # Education
 
-* Courses WAY UP:
- + JavaScript Basics
- + HTML Basics
- + CSS Basics
+* Courses WAY UP
+* Courses Intellect Fox
 
 # Languages
 

@@ -16,3 +16,21 @@ Junior Frontend Developer search for a position where I can enhance my skillset 
 
 ## Experience
 No comercial IT expirience. My study projects on [GitHub](https://github.com/Spektar001).
+
+## Education
+* The Rolling Scopes School: JS/FE Pre-School 2022Q2
+* Courses WAY UP
+* Courses Intellect Fox
+
+## Languages
+**Russian** - Native  
+**English** - Beginner(A1)  
+
+## Code Example
+```
+const minions = () => {
+ let fruit = 'b' + 'a' + +'a' + 'a' + 's';
+ return 'I LIKE ' + `${fruit.toUpperCase()}!`;
+}
+minions();
+```
